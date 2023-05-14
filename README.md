@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Frontend Engineer 
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML ,  CSS , Bootstrap , JavaScript , ReactJs ,  or anything related to web development.
+- 💬 Ask me about my experience with HTML ,  CSS , Bootstrap , JavaScript , ReactJs , Redux or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
