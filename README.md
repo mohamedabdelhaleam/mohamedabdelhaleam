@@ -17,6 +17,19 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=priya42bagde&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=priya42bagde)
+-->
+
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabdelhaleam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mohamedabdelhaleam" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedabdelhaleam&show_icons=true&locale=en&theme=chartreuse-dark" alt="mohamedabdelhaleam" width="410" /></p>
+<br><br><br><br><br>
+<hr>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelhaleam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
 
 ### Connect with Me :
 
