@@ -28,7 +28,7 @@
 <br><br><br><br><br>
 <hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelhaleam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
 
 
 ### Connect with Me :
