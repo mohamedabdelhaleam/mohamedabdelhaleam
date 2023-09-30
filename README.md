@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 <h3 align="center">
   Welcome to Mohamed Abdelhaleam's profile!
@@ -28,6 +28,7 @@
 <br><br><br><br><br>
 <hr>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelhaleam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 
 
