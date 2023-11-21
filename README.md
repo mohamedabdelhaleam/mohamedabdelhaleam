@@ -39,8 +39,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodejs)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![NodeJs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
