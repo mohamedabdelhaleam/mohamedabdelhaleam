@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Backend Engineer 
-- 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP , Laravel , MYSQL , HTML ,  CSS , Bootstrap , Tailwind , JavaScript , ReactJs , NextJs or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
